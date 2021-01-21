@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"212",
+		"313",
+		"212"
+	],
+	"key": {
+	  "1": {
+	  	"item": "compscimod:electronic"
+	  },	
+	  "2": {
+	  	"item": "compscimod:steel_block"
+	  },
+	  "3": {
+	  	"item": "minecraft:glass"
+	  }
+	},
+	  "result": {
+		  "item": "compscimod:swag_glasses"
+	  }
+}

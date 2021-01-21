@@ -1,0 +1,5 @@
+{
+	"textures": [
+		"compscimod:ctm/light_panel.ctx"
+	]
+}

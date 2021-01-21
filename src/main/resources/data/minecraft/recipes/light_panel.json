@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"131",
+		"323",
+		"131"
+	],
+	"key": {
+	  "1": {
+	  	"item": "compscimod:steel_block"
+	  },	
+	  "2": {
+	  	"item": "minecraft:sea_lantern"
+	  },
+	  "3": {
+	  	"item": "compscimod:electronic"	
+	  }
+	},
+	  "result": {
+		  "item": "compscimod:light_panel",
+		  "count": 8
+	  }
+}

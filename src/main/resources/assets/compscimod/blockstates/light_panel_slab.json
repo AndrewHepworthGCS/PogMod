@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model": "compscimod:block/light_panel_slab" },
+		"type=top": { "model": "compscimod:block/light_panel_slab_top" },
+		"type=double": { "model": "compscimod:block/light_panel" }
+	}
+}

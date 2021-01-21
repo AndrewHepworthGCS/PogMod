@@ -1,0 +1,6 @@
+{
+	"type": "CTM",
+	"textures":
+		"compscimod:blocks/light_panel:,
+		"./light_panel"
+}

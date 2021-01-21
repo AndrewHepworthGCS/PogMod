@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"12"
+	],
+	"key": {
+	  "1": {
+	  	"item": "minecraft:obsidian"
+	  },	
+	  "2": {
+	  	"item": "minecraft:iron_block"
+	  }
+	},
+	  "result": {
+		  "item": "compscimod:silica_pearl",
+		  "count": 2
+	  }
+}

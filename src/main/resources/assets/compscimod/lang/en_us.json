@@ -1,0 +1,14 @@
+{
+	"item.compscimod.golden_potato": "\u00A7bGolden Potato",
+	"item.compscimod.enchanted_golden_potato": "\u00A7dEnchanted Golden Potato",
+	"item.compscimod.enchanted_golden_carrot": "\u00A7bEnchanted Golden Carrot",
+	"block.compscimod.light_panel": "Light Panel",
+	"block.compscimod.light_panel_slab": "Light Panel Slab",
+	"item.compscimod.electronic": "Electronic",
+	"item.compscimod.silica_pearl": "Silica Pearl",
+	"block.compscimod.steel_ore": "Steel Ore",
+	"item.compscimod.steel_ingot": "Steel Ingot",
+	"block.compscimod.steel_block": "Steel Block",
+	"itemGroup.modded_group": "Modded Items",
+	"item.compscimod.swag_glasses": "\u00A7bStark's Glasses"
+}

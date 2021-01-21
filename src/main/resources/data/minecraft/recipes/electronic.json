@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"212",
+		"131",
+		"212"
+	],
+	"key": {
+	  "1": {
+	  	"item": "minecraft:redstone"
+	  },	
+	  "2": {
+	  	"item": "compscimod:steel_block"
+	  },
+	  "3": {
+	  	"item": "compscimod:silica_pearl"
+	  }
+	},
+	  "result": {
+		  "item": "compscimod:electronic",
+		  "count": 4
+	  }
+}
